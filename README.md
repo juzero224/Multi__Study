@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHDY9%2FMulti__Study&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=All+Collaborators&edge_flat=false)](https://hits.seeyoufarm.com)  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHDY9%2FMulti__Study&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 ![XL](https://user-images.githubusercontent.com/107606344/190890697-fca9ad10-b944-4d31-ad57-8de851e5fd5e.jpg)
 
-# 📚 알고리즘 및 코딩 테스트 문제 풀이를 위한 스터디 모임 📈
+# 📚 알고리즘 및 코딩 테스트 문제 풀이를 위한 스터디 📈
 - `MultiCampus`의 우수생 3명만을 위한 스터디 모임.
 - 인원 확대/축소 없음.
 - 이 모임을 탈출하려면, `네카라쿠배당토직야` 이상 취업하든지.  
